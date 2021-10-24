@@ -7,6 +7,8 @@ This is the main code of the paper "Compression and Reinforced  Class Separabili
 > Tensorfolow 2.6.0
 </dl>
 
+https://www.google.com.hk/search?q=markdown+cheat+sheet&newwindow=1&source=hp&ei=dBV1YaHTJqKQxc8P1YSvsAY&iflsig=ALs-wAMAAAAAYXUjhCiA2tsJz4NyHUYYVJKLiojiyz3I&oq=markdown+cheat+sheet&gs_lcp=Cgdnd3Mtd2l6EAMYADIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzIFCAAQgARQClgKYLsaaABwAHgAgAGnBIgBpwSSAQM1LTGYAQCgAQE&sclient=gws-wiz
+
 ---
 > **The results of Indian dataset:**
 
