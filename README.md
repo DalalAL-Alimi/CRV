@@ -8,9 +8,13 @@ This is the main code of the paper "Compression and Reinforced  Class Separabili
 </dl>
 
 ---
+> **The results of Indian dataset:**
 
+| Groun Trouth        | Preduction           |
+| ------------- |:-------------:|
+| ![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/ground_truth_IP_model1.png)      | ![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/ground_truth_IP_model1.png) |
 
-ground_truth_IP_model1.png
+![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/ground_truth_IP_model1.png)  ![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/ground_truth_IP_model1.png)
 ```
 {
   @Article{rs11212525,
