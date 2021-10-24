@@ -9,6 +9,8 @@ This is the main code of the paper "Compression and Reinforced  Class Separabili
 
 ---
 
+
+ground_truth_IP_model1.png
 ```
 {
   @Article{rs11212525,
