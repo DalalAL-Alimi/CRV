@@ -4,6 +4,9 @@ This is the main code of the paper "Compression and Reinforced  Class Separabili
 ## Abstract
 In Hyperspectral (HS) images, dimensionality reduction methods (DRM) play a critical role in reducing the input data dimension and complexity. Although the deep learning methods (DLM) have presented very aggressive achievements, the preprocessing methods and DRM are very important to enhance the learning of DLMs. This study introduces a novel DRM called Compression and Reinforced Variation (CRV) to reduce the input data dimension. The CRV is an effective method to minimize the gap between the big and small related data of the same class and omits the noise and redundant data. It selects the most informative features and normalizes them to enhance that data distribution before inserting them into the learning model. The learning model of this study is multi-hybrid deep learning (MHDL) model to improve the extraction of multi-class Hyperspectral images and spectral-spatial features. MHDL model employs hyper layers of conventional neural network and batch normalization to avoid overfitting and normalizing the training. The proposed CRV provides a considerably effective way to reduce the HS images dimension and enhance the final classification accuracy of the MHDL model. Moreover, CRV is the best to provide high accuracy in a short time when it is compared with other common DRMs. Also, CRV-MHDL was compared with seven existing methods for three different datasets, and it outperforms all of them. 
 
+![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/MainF.png)
+The main framework of the study
+
 <dl>
   <dt>The requerments:</dt>
   
@@ -17,7 +20,7 @@ https://www.google.com.hk/search?q=markdown+cheat+sheet&newwindow=1&source=hp&ei
 
 | Groun Trouth        | Preduction           |
 | ------------- |:-------------:|
-| ![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/ground_truth_IP_model1.png)      | ![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/ground_truth_IP_model1.png) |
+| ![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/ground_truth_IP_model1.png)      | ![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/CRV_MHDL.png) |
 
 ![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/ground_truth_IP_model1.png)  ![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/ground_truth_IP_model1.png)
 ```
