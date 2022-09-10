@@ -17,13 +17,13 @@ In Hyperspectral images (HSI), dimensionality reduction methods (DRM) play a cri
 
 ---
 #### The time of the five preprocessing and reducing dimensionality methods.
-![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/preprocessing_time.png)
+![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/images/preprocessing_time.png)
 
 > **The results of Indian Pines (IPs) dataset:**
 
 | Ground Trouth        | Production           |
 | ------------- |:-------------:|
-| ![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/ground_truth_IP_model1.png)      | ![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/CRV_MHDL.png) |
+| ![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/images/ground_truth_IP_model1.png)      | ![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/images/CRV_MHDL.png) |
 
 ## Citation
 #### We would appreciate a citation to the original paper if you use any part of this code (CRV + MHDL or anyone) for your research works.
