@@ -15,9 +15,12 @@ In Hyperspectral images (HSI), dimensionality reduction methods (DRM) play a cri
 <dl>
   <dt>The requerments:</dt>
   
-> Tensorfolow 2.6.0 </dl></dt>
-> keras 2.10.0 </dl></dt>
-> matplotlib 3.53 </dl></dt>
+> Tensorfolow 2.6.0 
+</dl></dt>
+> keras 2.10.0 
+> </dl></dt>
+> matplotlib 3.53 
+> </dl></dt>
 > numpy 1.23.2 </dl></dt>
 > pandas 1.4.4 </dl></dt>
 > plotly 5.10.0 </dl></dt>
