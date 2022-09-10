@@ -5,6 +5,9 @@ This is the main code of the paper "Compression and Reinforced Class Separabilit
 In Hyperspectral images (HSI), dimensionality reduction methods (DRM) play a critical role in reducing the input data dimension and complexity. As much as the deep learning methods (DLM) have presented very aggressive achievements, preprocessing methods and DRM are very important to enhance the learning of DLMs. This study introduces a novel DRM called Compression and Reinforced Variation (CRV), which is used to reduce the input data dimension. The CRV minimizes the gap between the big and small related data in each class and omits the noise and redundant data. It selects the most informative features and normalizes them to enhance data distribution before inserting them into the learning model. The learning model of this study is multi-hybrid deep learning (MHDL) model to improve the extraction of multi-class HSI and spectral-spatial features. MHDL is a novel classification model that includes hybrid layers of conventional neural networks and batch normalization to avoid overfitting, normalizing the training, and extracting the spectral-spatial features for HSI. The proposed CRV provided highly efficient methods for reducing the HSI dimension and improving the classification accuracy of the MHDL model. In contrast to other conventional DRMs, CRV gave the highest accuracy in the shortest time. CRV-MHDL was also compared to seven existing classification models for three distinct datasets, and the findings demonstrated that the CRV-MHDL outperforms all of them by more than 2%. 
 
 
+#### The compression and reinforced variation (CRV) method
+![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/images/1.PNG)
+
 #### The main framework of the study
 ![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/images/MainF.png)
 
