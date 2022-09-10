@@ -6,7 +6,7 @@ In Hyperspectral images (HSI), dimensionality reduction methods (DRM) play a cri
 
 
 #### The main framework of the study
-![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/MainF.png)
+![alt text](https://github.com/DalalAL-Alimi/CRV-/blob/main/images/MainF.png)
 
 
 <dl>
